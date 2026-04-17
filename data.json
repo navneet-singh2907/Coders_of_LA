@@ -1,0 +1,41 @@
+{
+    "users": [
+        {"id": 1, "name": "Neo", "friends": [2, 3, 5], "liked_pages": [101, 111, 112, 115]},
+        {"id": 2, "name": "Elena", "friends": [1, 4, 8], "liked_pages": [102, 103]},
+        {"id": 3, "name": "John", "friends": [1, 6, 7], "liked_pages": [104, 105, 110]},
+        {"id": 4, "name": "Aisha", "friends": [2, 9, 10], "liked_pages": [106, 107]},
+        {"id": 5, "name": "Dmitri", "friends": [1, 11, 12], "liked_pages": [108, 109, 110]},
+        {"id": 6, "name": "Yuki", "friends": [3, 13, 14], "liked_pages": [101, 115]},
+        {"id": 7, "name": "Chen", "friends": [3, 15, 16], "liked_pages": [111, 112]},
+        {"id": 8, "name": "Liam", "friends": [2, 17, 18], "liked_pages": [102, 113, 114]},
+        {"id": 9, "name": "Sofia", "friends": [4, 19, 20], "liked_pages": [103, 104]},
+        {"id": 10, "name": "Ivan", "friends": [4, 11, 15], "liked_pages": [105, 106]},
+        {"id": 11, "name": "Priya", "friends": [5, 10, 16], "liked_pages": [107, 108]},
+        {"id": 12, "name": "Mateo", "friends": [5, 17], "liked_pages": [109, 113]},
+        {"id": 13, "name": "Fatoumata", "friends": [6, 18], "liked_pages": []},
+        {"id": 14, "name": "Lars", "friends": [6, 19], "liked_pages": [110, 114]},
+        {"id": 15, "name": "Hiroshi", "friends": [7, 10, 20], "liked_pages": [111, 115]},
+        {"id": 16, "name": "Chloe", "friends": [7, 11], "liked_pages": [104, 108]},
+        {"id": 17, "name": "Olga", "friends": [8, 12], "liked_pages": [103, 112]},
+        {"id": 18, "name": "Rajesh", "friends": [8, 13], "liked_pages": [105, 107]},
+        {"id": 19, "name": "Jamal", "friends": [9, 14], "liked_pages": []},
+        {"id": 20, "name": "Emma", "friends": [9, 15], "liked_pages": [106, 109]}
+    ],
+    "pages": [
+        {"id": 101, "name": "Python Developers"},
+        {"id": 102, "name": "Data Science Enthusiasts"},
+        {"id": 103, "name": "AI & ML Community"},
+        {"id": 104, "name": "Web Dev Hub"},
+        {"id": 105, "name": "Cloud Computing Ninjas"},
+        {"id": 106, "name": "DevOps Masters"},
+        {"id": 107, "name": "Cyber Security Experts"},
+        {"id": 108, "name": "Open Source Contributors"},
+        {"id": 109, "name": "Trap Shooting Club"},
+        {"id": 110, "name": "Scenic Road Trips"},
+        {"id": 111, "name": "MLOps Engineering"},
+        {"id": 112, "name": "Generative AI Innovators"},
+        {"id": 113, "name": "Hypertrophy & Fitness"},
+        {"id": 114, "name": "Ovo-Vegetarian Recipes"},
+        {"id": 115, "name": "LeetCode Grinders"}
+    ]
+}
